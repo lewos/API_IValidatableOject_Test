@@ -1,0 +1,12 @@
+C:\Users\leo21\source\repos\API_IValidatableOject_Test\API_IValidatableOject_Test.Core\bin\Debug\netstandard2.0\API_IValidatableOject_Test.Core.deps.json
+C:\Users\leo21\source\repos\API_IValidatableOject_Test\API_IValidatableOject_Test.Core\bin\Debug\netstandard2.0\API_IValidatableOject_Test.Core.dll
+C:\Users\leo21\source\repos\API_IValidatableOject_Test\API_IValidatableOject_Test.Core\bin\Debug\netstandard2.0\API_IValidatableOject_Test.Core.pdb
+C:\Users\leo21\source\repos\API_IValidatableOject_Test\API_IValidatableOject_Test.Core\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+C:\Users\leo21\source\repos\API_IValidatableOject_Test\API_IValidatableOject_Test.Core\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
+C:\Users\leo21\source\repos\API_IValidatableOject_Test\API_IValidatableOject_Test.Core\obj\Debug\netstandard2.0\API_IValidatableOject_Test.Core.csprojAssemblyReference.cache
+C:\Users\leo21\source\repos\API_IValidatableOject_Test\API_IValidatableOject_Test.Core\obj\Debug\netstandard2.0\API_IValidatableOject_Test.Core.csproj.CoreCompileInputs.cache
+C:\Users\leo21\source\repos\API_IValidatableOject_Test\API_IValidatableOject_Test.Core\obj\Debug\netstandard2.0\API_IValidatableOject_Test.Core.AssemblyInfoInputs.cache
+C:\Users\leo21\source\repos\API_IValidatableOject_Test\API_IValidatableOject_Test.Core\obj\Debug\netstandard2.0\API_IValidatableOject_Test.Core.AssemblyInfo.cs
+C:\Users\leo21\source\repos\API_IValidatableOject_Test\API_IValidatableOject_Test.Core\obj\Debug\netstandard2.0\API_IValidatableOject_Test.Core.csproj.CopyComplete
+C:\Users\leo21\source\repos\API_IValidatableOject_Test\API_IValidatableOject_Test.Core\obj\Debug\netstandard2.0\API_IValidatableOject_Test.Core.dll
+C:\Users\leo21\source\repos\API_IValidatableOject_Test\API_IValidatableOject_Test.Core\obj\Debug\netstandard2.0\API_IValidatableOject_Test.Core.pdb
